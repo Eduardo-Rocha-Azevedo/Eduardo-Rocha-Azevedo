@@ -6,12 +6,11 @@ Meu foco é desenvolvinto back-end, atualmente resido em Curitiba-PR
 
  <div>
 
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Rocha-Azevedo&theme=chartreuse-dark)
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Rocha-Azevedo&theme=algolia )
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Rocha-Azevedo&layout=compact&theme=vision-friendly-dark)
-
-</div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Rocha-Azevedo&layout=compact&theme=algolia )
 <hr>
+</div>
 <p>Atualmente utilizo as seguintes tecnologias<p/>
 <marquee>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
