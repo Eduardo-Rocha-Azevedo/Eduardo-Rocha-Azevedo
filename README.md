@@ -16,9 +16,10 @@ https://eduardorochaazevedo.000webhostapp.com/index.html
 <p>Atualmente utilizo as seguintes tecnologias<p/>
 <marquee>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://drive.google.com/file/d/1AOjgI_uiwfnX_ii4_yzkZgheM7Idva7S/view?usp=sharing">
+<img src="https://github.com/Eduardo-Rocha-Azevedo/Eduardo-Rocha-Azevedo/assets/142415927/b99c1ea0-b7f2-4f51-83c2-26ca0c119344">
+<img src="https://github.com/Eduardo-Rocha-Azevedo/Eduardo-Rocha-Azevedo/assets/142415927/a93763ee-29e1-4d47-b4e6-9884ad7e2a7c">
+<img src="https://github.com/Eduardo-Rocha-Azevedo/Eduardo-Rocha-Azevedo/assets/142415927/6505e13e-75db-4239-aa1b-4c5e418f5b7d">
+
 </marquee>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
