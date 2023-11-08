@@ -2,15 +2,15 @@
 
 Estou cursando Analise e Desenvolvimento de Sistemas, já tenho conhecimento de algumas linguangens,
 também cursei promação no Ensino Médio em 2021, onde apreendi a desenvolver web site com html,css e Js
-Meu foco é desenvolvinto back-end, atualmente resido em Curitiba-PR
+Meu foco é desenvolvinto back-end, atualmente resido em Curitiba-PR,<br><hr>
+
 Meu portifólio online:
 https://eduardorochaazevedo.000webhostapp.com/index.html
 
  <div>
 
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Rocha-Azevedo&theme=algolia )
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Rocha-Azevedo&layout=compact&theme=algolia )
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Rocha-Azevedo&theme=algolia )<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Rocha-Azevedo&layout=compact&theme=algolia )
 <hr>
 </div>
 <p>Atualmente utilizo as seguintes tecnologias<p/>
