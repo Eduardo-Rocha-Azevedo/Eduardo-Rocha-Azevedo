@@ -3,6 +3,8 @@
 Estou cursando Analise e Desenvolvimento de Sistemas, já tenho conhecimento de algumas linguangens,
 também cursei promação no Ensino Médio em 2021, onde apreendi a desenvolver web site com html,css e Js
 Meu foco é desenvolvinto back-end, atualmente resido em Curitiba-PR
+Meu portifólio online:
+https://eduardorochaazevedo.000webhostapp.com/index.html
 
  <div>
 
