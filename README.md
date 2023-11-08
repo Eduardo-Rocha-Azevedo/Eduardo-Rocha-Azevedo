@@ -9,7 +9,7 @@ https://eduardorochaazevedo.000webhostapp.com/index.html
 
  <div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Rocha-Azevedo&theme=algolia )<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Rocha-Azevedo&theme=algolia )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Rocha-Azevedo&layout=compact&theme=algolia )
 <hr>
 </div>
