@@ -1,3 +1,6 @@
+
+![image](https://github.com/Eduardo-Rocha-Azevedo/Jogo-de-carro-/assets/142415927/d982fe41-7789-4058-a24b-78788fd805af)
+
 <h1>Olá eu sou EDUARDO ROCHA AZEVEDO  👋</h1>
 
 Estou cursando Analise e Desenvolvimento de Sistemas, já tenho conhecimento de algumas linguangens,
