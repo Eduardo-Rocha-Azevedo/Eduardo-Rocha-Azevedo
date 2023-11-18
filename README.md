@@ -1,7 +1,7 @@
 
 ![image](https://github.com/Eduardo-Rocha-Azevedo/Jogo-de-carro-/assets/142415927/d982fe41-7789-4058-a24b-78788fd805af)
 
-<h1>Olá eu sou EDUARDO ROCHA AZEVEDO  👋</h1>
+<h1>Seja bem vido ao meu Github</h1>
 
 Estou cursando Analise e Desenvolvimento de Sistemas, já tenho conhecimento de algumas linguangens,
 também cursei promação no Ensino Médio em 2021, onde apreendi a desenvolver web site com html,css e Js
@@ -9,7 +9,11 @@ Meu foco é desenvolvinto de sistemas, atualmente resido em Curitiba-PR,<br><hr>
 
 Meu portifólio online:
 https://eduardorochaazevedo.000webhostapp.com/index.html
-
+<h2>Neste perfil você encontrará</h2>
+<ul>
+ <li>Materiais de estudo</li>
+ <li>Projetos</li>
+</ul>
  <div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Rocha-Azevedo&theme=algolia )
