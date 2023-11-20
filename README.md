@@ -5,7 +5,7 @@
 
 Estou cursando Analise e Desenvolvimento de Sistemas, já tenho conhecimento de algumas linguangens,
 também cursei promação no Ensino Médio em 2021, onde apreendi a desenvolver web site com html,css e Js
-Meu foco é desenvolvinto de sistemas, atualmente resido em Curitiba-PR,<br><hr>
+Meu foco é desenvolvinto de sistemas, atualmente resido em Curitiba-PR,<br>
 
 <h2>Neste perfil você encontrará</h2>
 <ul>
