@@ -15,7 +15,7 @@ Meu foco é desenvolvinto de sistemas, atualmente resido em Curitiba-PR,<br>
  <div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Rocha-Azevedo&theme=algolia )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Rocha-Azevedo&layout=compact&theme=algolia )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Rocha-Azevedo&layout=compact&theme=algolia&hide=c%2B%2B,qmake )
 <hr>
 </div>
 <p>Atualmente utilizo as seguintes tecnologias<p/>
