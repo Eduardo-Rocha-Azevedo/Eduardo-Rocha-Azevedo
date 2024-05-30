@@ -23,7 +23,7 @@ Meu foco é desenvolvinto de sistemas, atualmente resido em Curitiba-PR,<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://github.com/Eduardo-Rocha-Azevedo/Eduardo-Rocha-Azevedo/assets/142415927/b99c1ea0-b7f2-4f51-83c2-26ca0c119344">
 <img src="https://github.com/Eduardo-Rocha-Azevedo/Eduardo-Rocha-Azevedo/assets/142415927/a93763ee-29e1-4d47-b4e6-9884ad7e2a7c">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50px>
 
 </marquee>
 
